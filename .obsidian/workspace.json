@@ -254,12 +254,32 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f6a1659cf7a3d736",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "509da6f6bb9ba1fe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "7fb7964839758311",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Daily log/2026-03-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +289,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Bienvenido"
+              "title": "Enlaces entrantes de 2026-03-28"
             }
           },
           {
@@ -278,12 +298,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Daily log/2026-03-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Bienvenido"
+              "title": "Enlaces salientes de 2026-03-28"
             }
           },
           {
@@ -299,16 +319,6 @@
               },
               "icon": "lucide-tags",
               "title": "Etiquetas"
-            }
-          },
-          {
-            "id": "f6a1659cf7a3d736",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
             }
           },
           {
@@ -339,23 +349,13 @@
               "icon": "lucide-list",
               "title": "Esquema de 2026-03-28"
             }
-          },
-          {
-            "id": "509da6f6bb9ba1fe",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -371,7 +371,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2af033bccb8b943d",
+  "active": "41b8f23ee696ddf2",
   "lastOpenFiles": [
     "TEMPLATES/Daily Template.md",
     "Daily log/2026-03-28.md",
