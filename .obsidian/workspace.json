@@ -148,6 +148,16 @@
             }
           },
           {
+            "id": "f6a1659cf7a3d736",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "0a67efb220df3981",
             "type": "leaf",
             "state": {
@@ -167,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Daily log/2026-03-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Bienvenido"
+              "title": "Esquema de 2026-03-27"
             }
           },
           {
@@ -187,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -202,14 +212,19 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "e699d9cd475020eb",
+  "active": "509da6f6bb9ba1fe",
   "lastOpenFiles": [
-    "2026-03-27.md",
+    "Monthly log/2026-03.md",
+    "Weekly log/2026-W13.md",
     "Daily log/2026-03-27.md",
+    "Weekly log",
     "Future log.md",
+    "2026-03-27.md",
     "Bienvenido.md",
     "Sin título.canvas",
     "lizjsdfljs.md",

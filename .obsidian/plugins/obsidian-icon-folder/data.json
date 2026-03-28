@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendarRange",
       "LiAlbum",
       "LiCalendar1",
       "LiCalendar",
@@ -35,5 +36,6 @@
   },
   "Daily log": "LiCalendar1",
   "Monthly log": "LiCalendar",
-  "Future log.md": "LiAlbum"
+  "Future log.md": "LiAlbum",
+  "Weekly log": "LiCalendarRange"
 }
