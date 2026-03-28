@@ -197,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -217,11 +217,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "509da6f6bb9ba1fe",
+  "active": "e699d9cd475020eb",
   "lastOpenFiles": [
+    "Daily log/2026-03-27.md",
     "Monthly log/2026-03.md",
     "Weekly log/2026-W13.md",
-    "Daily log/2026-03-27.md",
     "Weekly log",
     "Future log.md",
     "2026-03-27.md",
