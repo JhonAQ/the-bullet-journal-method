@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prueba git.md",
+                "file": "Weekly log/2026-W13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prueba git"
+              "title": "2026-W13"
             }
           }
         ],
@@ -293,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prueba git.md",
+                "file": "Weekly log/2026-W13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de prueba git"
+              "title": "Enlaces entrantes de 2026-W13"
             }
           },
           {
@@ -312,12 +312,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prueba git.md",
+                "file": "Weekly log/2026-W13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de prueba git"
+              "title": "Enlaces salientes de 2026-W13"
             }
           },
           {
@@ -387,8 +387,8 @@
   },
   "active": "fad112776a7c8885",
   "lastOpenFiles": [
-    "Daily log/2026-03-28.md",
     "prueba git.md",
+    "Daily log/2026-03-28.md",
     "TEMPLATES/Daily Template.md",
     "TEMPLATES/Weekly Template.md",
     "TEMPLATES",
