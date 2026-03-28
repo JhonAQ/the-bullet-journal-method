@@ -135,16 +135,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily log/2026-03-27.md",
+                "file": "Saas/Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-27"
+              "title": "Ideas"
+            }
+          },
+          {
+            "id": "b1c04eeadccdf287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEMPLATES/Daily Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Template"
+            }
+          },
+          {
+            "id": "6187625ae14df474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEMPLATES/Daily Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Template"
+            }
+          },
+          {
+            "id": "2af033bccb8b943d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily log/2026-03-28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-28"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -289,13 +331,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily log/2026-03-27.md",
+                "file": "Daily log/2026-03-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2026-03-27"
+              "title": "Esquema de 2026-03-28"
             }
           },
           {
@@ -329,13 +371,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bde00d727ae66286",
+  "active": "2af033bccb8b943d",
   "lastOpenFiles": [
+    "TEMPLATES/Weekly Template.md",
+    "Daily log/2026-03-28.md",
+    "TEMPLATES/Daily Template.md",
+    "TEMPLATES",
+    "Saas/Ideas.md",
+    "Recording 20260328013446.m4a",
+    "Sin título.canvas",
+    "Daily log/2026-03-27.md",
     "Weekly log/2026-W13.md",
     "Languajes/Tasks.md",
-    "Daily log/2026-03-27.md",
     "Languajes/Vocabulary.md",
-    "Ideas.md",
     "Saas",
     "Future log.md",
     "Languajes",
@@ -352,11 +400,8 @@
     "Music/Culto semana santa - servicio.md",
     "Music/SxF",
     "Music",
-    "Music/SxF",
-    "Weekly log",
     "2026-03-27.md",
     "Bienvenido.md",
-    "Sin título.canvas",
     "lizjsdfljs.md",
     "hola/jo.md"
   ]

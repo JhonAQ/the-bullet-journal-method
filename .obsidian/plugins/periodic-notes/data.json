@@ -4,11 +4,12 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "folder": "Daily log",
+    "template": "TEMPLATES/Daily Template.md",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "",
+    "template": "TEMPLATES/Weekly Template.md",
     "folder": "Weekly log",
     "enabled": true
   },

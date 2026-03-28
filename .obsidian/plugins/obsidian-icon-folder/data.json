@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLayoutTemplate",
       "LiCode2",
       "LiLanguages",
       "LiChurch",
-      "LiDatabase",
-      "LiSmartphone"
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "Misiones Urbanas": "LiChurch",
   "Preguntas y respuestas ADONAI": "LiChurch",
   "Languajes": "LiLanguages",
-  "Saas": "LiCode2"
+  "Saas": "LiCode2",
+  "TEMPLATES": "LiLayoutTemplate"
 }
