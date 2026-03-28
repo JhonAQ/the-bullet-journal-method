@@ -1,1 +1,2 @@
 - [ ] Metodo ingles con la biblia
+- [ ] Corregir script daily journals, connect to api keys gemini to check my grammar and coherence
