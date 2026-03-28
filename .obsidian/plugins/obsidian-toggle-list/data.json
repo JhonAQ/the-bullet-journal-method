@@ -9,7 +9,7 @@
     {
       "index": 0,
       "name": "Ciclo BuJo",
-      "tmp_name": "Command 0",
+      "tmp_name": "Ciclo BuJo",
       "bindings": [
         0
       ],
@@ -38,34 +38,5 @@
       ],
       "states_dict": {}
     }
-  ],
-  "registedCmdName": [
-    "Ciclo BuJo-Next",
-    "Ciclo BuJo-Prev"
-  ],
-  "pop_context": {
-    "setup": {
-      "index": 0,
-      "all_states": "- [ ]\n- [x]\n- [-]\n- [o]\n- [>]\n- [<]",
-      "states": [
-        "- [ ]",
-        "- [x]",
-        "- [-]",
-        "- [o]",
-        "- [>]",
-        "- [<]"
-      ],
-      "sorteds": [
-        "- [ ]",
-        "- [x]",
-        "- [-]",
-        "- [o]",
-        "- [>]",
-        "- [<]"
-      ],
-      "states_dict": {}
-    },
-    "stateIdx": 1,
-    "direction": -1
-  }
+  ]
 }
