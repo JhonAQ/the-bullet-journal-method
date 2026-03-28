@@ -1,0 +1,1 @@
+- Colegios software por temporadas, elecciones armado de horarios, etc

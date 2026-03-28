@@ -1,0 +1,1 @@
+- [ ] Metodo ingles con la biblia

@@ -1,0 +1,18 @@
+- [ ] Ejes tematicos, temario unsa
+- ideas edutokia: 
+- ofrecer tipos de actividades por cada tema del temario para asegurar al estudiatnes de que esta dominando un tema
+- visio de conevrtir la app en una academia andante
+- onboarding inincial de algo valor donde ya los proyecte a estaren la uni
+- si como pwa se puede iniciar sesion google con algo ativo de andriod
+- premiar rachas mas largas
+- intalar herramientas para sacar kpis de que minijuegos so los que mas funcionan la retencion etc	
+- que se pueda tener trackeado a los usuarios para saber si ingresaron y en caso de si regalar una taza por publicidad
+- mecanicas:
+	- Lecciones integradas dentro de la aplicacion
+- Mecanicas actividades
+	- El constricyor, bloquees  de arrastre
+	- Probar intuitividad del simulacro
+- Publicidad
+	- Pagar a tiktokers profesiores y tal pra hacer promos
+
+- el fondo del nido cambia segun la hora a la que se entre si es de dia algo claro si es de noche adaptarse

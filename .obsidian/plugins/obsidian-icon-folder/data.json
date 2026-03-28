@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCalendarRange",
-      "LiAlbum",
-      "LiCalendar1",
-      "LiCalendar",
-      "LiCalendarDays"
+      "LiCode2",
+      "LiLanguages",
+      "LiChurch",
+      "LiDatabase",
+      "LiSmartphone"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,12 @@
   "Daily log": "LiCalendar1",
   "Monthly log": "LiCalendar",
   "Future log.md": "LiAlbum",
-  "Weekly log": "LiCalendarRange"
+  "Weekly log": "LiCalendarRange",
+  "Music": "LiMusic",
+  "Ingresa.pe": "LiSmartphone",
+  "Informacion util": "LiDatabase",
+  "Misiones Urbanas": "LiChurch",
+  "Preguntas y respuestas ADONAI": "LiChurch",
+  "Languajes": "LiLanguages",
+  "Saas": "LiCode2"
 }

@@ -8,94 +8,44 @@
   "cmd_list": [
     {
       "index": 0,
-      "name": "Task",
-      "tmp_name": "Task",
+      "name": "Ciclo BuJo",
+      "tmp_name": "Command 0",
       "bindings": [
         0
       ],
-      "isPopOver": false
-    },
-    {
-      "index": 1,
-      "name": "Task Priority",
-      "tmp_name": "Task Priority",
-      "bindings": [
-        1
-      ],
-      "isPopOver": false
-    },
-    {
-      "index": 2,
-      "name": "Call out",
-      "tmp_name": "Call out",
-      "bindings": [
-        2
-      ],
-      "isPopOver": false
-    },
-    {
-      "index": 3,
-      "name": "Task + Callout",
-      "tmp_name": "Task + Callout",
-      "bindings": [
-        2,
-        0
-      ],
-      "isPopOver": false
+      "isPopOver": true
     }
   ],
   "setup_list": [
     {
       "index": 0,
-      "all_states": "- \n- [ ] \n- [x] || ✅ {time:: YYYY-MM-DD}\n",
+      "all_states": "- [ ]\n- [>]\n- [<]\n- [-]\n- [o]\n- [x]",
       "states": [
-        "- ",
-        "- [ ] ",
-        "- [x] || ✅ {time:: YYYY-MM-DD}",
-        ""
+        "- [ ]",
+        "- [>]",
+        "- [<]",
+        "- [-]",
+        "- [o]",
+        "- [x]"
       ],
       "sorteds": [
-        "- [x] || ✅ {time:: YYYY-MM-DD}",
-        "- [ ] ",
-        "- ",
-        ""
+        "- [ ]",
+        "- [>]",
+        "- [<]",
+        "- [-]",
+        "- [o]",
+        "- [x]"
       ],
       "states_dict": {}
-    },
-    {
-      "index": 1,
-      "all_states": "- [ ] \n- [ ] #p1 \n- [ ] #p2 \n- [ ] #p3 ",
-      "states": [
-        "- [ ] ",
-        "- [ ] #p1 ",
-        "- [ ] #p2 ",
-        "- [ ] #p3 "
-      ],
-      "sorteds": [
-        "- [ ] #p1 ",
-        "- [ ] #p2 ",
-        "- [ ] #p3 ",
-        "- [ ] "
-      ],
-      "states_dict": {}
-    },
-    {
-      "index": 2,
-      "all_states": "- ? \n- ! \n- ~ ",
-      "states": [
-        "- ? ",
-        "- ! ",
-        "- ~ "
-      ],
-      "sorteds": [
-        "- ? ",
-        "- ! ",
-        "- ~ "
-      ],
-      "states_dict": {}
-    },
-    {
-      "index": 3,
+    }
+  ],
+  "registedCmdName": [
+    "Ciclo BuJo-Next",
+    "Ciclo BuJo-Prev"
+  ],
+  "pop_context": {
+    "setup": {
+      "index": 0,
       "all_states": "- [ ]\n- [x]\n- [-]\n- [o]\n- [>]\n- [<]",
       "states": [
         "- [ ]",
@@ -114,16 +64,8 @@
         "- [<]"
       ],
       "states_dict": {}
-    }
-  ],
-  "registedCmdName": [
-    "Task-Next",
-    "Task-Prev",
-    "Task Priority-Next",
-    "Task Priority-Prev",
-    "Call out-Next",
-    "Call out-Prev",
-    "Task + Callout-Next",
-    "Task + Callout-Prev"
-  ]
+    },
+    "stateIdx": 1,
+    "direction": -1
+  }
 }

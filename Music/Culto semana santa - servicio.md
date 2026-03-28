@@ -1,0 +1,13 @@
+- [ ] Hacer un solo
+- Canciones to be done:
+	- En la casa de Dios
+	- Hay un mundo feliz
+	- Ya no soy esclavo
+	- En esto creo
+	- La cosecha
+	- Hossana
+	- Amanece
+	- Todopoderoso rojo
+	- Entera consagracion
+	- Lo haras otra vez
+- [o] Ensayo Lunes y miercoles 6am iglesia
