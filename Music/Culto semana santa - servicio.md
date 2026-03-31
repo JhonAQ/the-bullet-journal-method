@@ -6,8 +6,8 @@
 	- Todopoderoso rojo
 	- Amanece
 	- Hossana
+	- En esto creo
 	- La cosecha
 	 Entera consagracion
-	- En esto creo
 	- Ya no soy esclavo
 - [o] Ensayo Lunes y miercoles 6am iglesia
