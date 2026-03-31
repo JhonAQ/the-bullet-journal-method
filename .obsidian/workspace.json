@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly log/2026-W13.md",
+                "file": "Music/Culto semana santa - servicio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-W13"
+              "title": "Culto semana santa - servicio"
             }
           }
         ],
@@ -257,7 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "right": {
     "id": "6b2276bea1d0ca04",
@@ -273,8 +273,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -369,7 +369,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -380,17 +381,17 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false,
       "audio-recorder:Iniciar/Detener la grabación": false,
+      "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "fad112776a7c8885",
   "lastOpenFiles": [
+    "Weekly log/2026-W13.md",
     "TEMPLATES/Weekly Template.md",
     "TEMPLATES/Daily Template.md",
     "Daily log/2026-03-28.md",
-    "Weekly log/2026-W13.md",
     "prueba git.md",
     "TEMPLATES",
     "Saas/Ideas.md",

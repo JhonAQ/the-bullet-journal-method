@@ -2,9 +2,8 @@
 - Canciones to be done:
 	- En la casa de Dios
 	- Hay un mundo feliz
-	- Ya no soy esclavo
 	- En esto creo
-	- La cosecha
+	- Ya no soy esclavo
 	- Hossana
 	- Amanece
 	- Todopoderoso rojo
