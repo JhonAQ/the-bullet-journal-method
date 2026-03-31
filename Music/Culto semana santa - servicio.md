@@ -2,12 +2,12 @@
 - Canciones to be done:
 	- En la casa de Dios
 	- Hay un mundo feliz
+	- Lo haras otra vez
 	- Todopoderoso rojo
 	- Amanece
 	- Hossana
 	- La cosecha
+	- Entera consagracion
 	- En esto creo
 	- Ya no soy esclavo
-	- Entera consagracion
-	- Lo haras otra vez
 - [o] Ensayo Lunes y miercoles 6am iglesia
