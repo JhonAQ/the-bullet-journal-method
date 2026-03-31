@@ -7,7 +7,7 @@
 	- Amanece
 	- Hossana
 	- La cosecha
-	- Entera consagracion
+	 Entera consagracion
 	- En esto creo
 	- Ya no soy esclavo
 - [o] Ensayo Lunes y miercoles 6am iglesia
