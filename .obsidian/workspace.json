@@ -388,6 +388,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-rich-links:Rich Links": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,

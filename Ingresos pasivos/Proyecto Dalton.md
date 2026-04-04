@@ -6,6 +6,12 @@ Proyecto de venta de paginas como ingreso pasivo, plantillas rapidas para un nin
 	- Hosting y SSL
 - Meta: 20 emprendimientos activos: S/.1960.00 + S./1000 soles mensuales
 
+### Colegios
+- Libro de reclamaciones
+- Panel admin para gestionar contenidos
+- Blog para presencia en internet
+- Link directo a whatsapp
+
 ### Investigación de mercado
 
 #### Grupos de facebook
