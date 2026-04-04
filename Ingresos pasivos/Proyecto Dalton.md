@@ -11,6 +11,13 @@ Proyecto de venta de paginas como ingreso pasivo, plantillas rapidas para un nin
 - Panel admin para gestionar contenidos
 - Blog para presencia en internet
 - Link directo a whatsapp
+- 200 + 100 mensual
+
+### Barberia
+- Sistema de cupones el 5to  gratis
+- Sistema re reserva
+- catalogo virtual
+- 
 
 ### Investigación de mercado
 
