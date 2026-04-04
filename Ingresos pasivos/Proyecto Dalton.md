@@ -16,3 +16,10 @@ https://www.facebook.com/ARLINSTEFANIARIASROMAN/
 
 #### Ropa
 https://www.facebook.com/groups/223595205168627/user/100092478500123/
+https://www.facebook.com/groups/1766223747282901/user/100000480601655/
+https://www.facebook.com/groups/1766223747282901/user/61574138024864/
+https://www.facebook.com/groups/1766223747282901/user/61578517273271/
+https://www.facebook.com/groups/764435695345548/user/61556479583159/
+https://www.facebook.com/kika.store2/
+https://www.facebook.com/marierita.rovirakarra/
+https://www.facebook.com/marketplace/profile/100008049459614/
