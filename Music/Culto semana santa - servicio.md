@@ -1,4 +1,4 @@
-- [ ] Hacer un solo
+- [x] Hacer un solo
 - Canciones to be done:
 	- En la casa de Dios
 	- Hay un mundo feliz
